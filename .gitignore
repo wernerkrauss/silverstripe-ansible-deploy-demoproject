@@ -1,0 +1,18 @@
+# ignore everything...
+
+/*
+
+# ...but
+!/.htaccess
+!/.gitignore
+!/composer.json
+!/composer.lock
+
+!/mysite
+!/themes
+
+!/assets
+/assets/*
+!assets/.htaccess
+
+**/.sass-cache
